@@ -19,7 +19,7 @@ let text = `
 
 ## 🛠️ Tools
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:A5FECB,50:20BDFF,100:5433FF&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:A5FECB,50:20BDFF,100:5433FF&section=footer&reversal=true)
 
 ## 📕 Latest Blog Posts
 
