@@ -1,13 +1,18 @@
-# Hi there 👋
 
-## 이런 환경에 익숙해요✍🏼
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:A5FECB,50:20BDFF,100:5433FF&text=Hi, i'm Seungyeon&fontAlignY=30&textBg=false&reversal=false&desc=Engineer who can provide practical value to people&descAlignY=53&fontColor=f7f5f5)
 
-## 언어
+## 🙌 Introduction
+
+## 💻 Skill
 
 <p>
   <img alt="" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
   <img alt="" src= "https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue"/>
 </p>
+
+## 🛠️ Tools
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:A5FECB,50:20BDFF,100:5433FF&section=footer)
 
 ## 📕 Latest Blog Posts
 
