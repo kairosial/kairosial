@@ -12,7 +12,7 @@
 
 ## 🛠️ Tools
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:A5FECB,50:20BDFF,100:5433FF&section=footer&reversal=true)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:5433FF,50:20BDFF,100:A5FECB&section=footer&reversal=true)
 
 ## 📕 Latest Blog Posts
 
