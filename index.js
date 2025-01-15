@@ -6,7 +6,7 @@ import Parser from "rss-parser";
  * @type {string}
  */
 let text = `
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:A5FECB,50:20BDFF,100:5433FF&text=Hi, i'm Seungyeon&fontAlignY=30&textBg=false&reversal=false&desc=Engineer who can provide practical value to people&descAlignY=53&fontColor=f7f5f5)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:A5FECB,50:20BDFF,100:5433FF&text=Hi,%20i'm%20Seungyeon&fontAlignY=30&textBg=false&reversal=false&desc=Engineer%20who%20can%20provide%20practical%20value%20to%20people&descAlignY=53&fontColor=f7f5f5)
 
 ## 🙌 Introduction
 
