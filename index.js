@@ -7,9 +7,9 @@ import Parser from "rss-parser";
  */
 let text = `
 ### 🙌 Hi, i'm Seungyeon
-- 🔥 I aspire to become an engineer who provides practical value to people.
-- 🚀 Interested in the real-world applications of LLMs and LMMs in practical services.
-- 🎓 M.S. in Artificial Intelligence, B.S. in Naval Architecture and Ocean Engineering.
+- 🔥 I aspire to become an **engineer who provides practical value to people**.
+- 🚀 Interested in the real-world applications of **LLMs** and **LMMs** in practical services.
+- 🎓 **M.S.** in **Artificial Intelligence**, B.S. in Naval Architecture and Ocean Engineering.
 
 ### 💻 Skill and Tools
 <p>
