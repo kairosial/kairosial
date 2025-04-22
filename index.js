@@ -6,17 +6,13 @@ import Parser from "rss-parser";
  * @type {string}
  */
 let text = `
-// ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:A5FECB,50:20BDFF,100:5433FF&text=Hi,%20i'm%20Seungyeon&fontAlignY=30&textBg=false&reversal=false&desc=Engineer%20who%20can%20provide%20practical%20value%20to%20people&descAlignY=53&fontColor=f7f5f5)
-
 ### 🙌 Hi, i'm Seungyeon
 - 🔥 I aspire to become an engineer who provides practical value to people.
 - 🚀 Interested in the real-world applications of LLMs and LMMs in practical services.
 - 🎓 M.S. in Artificial Intelligence, B.S. in Naval Architecture and Ocean Engineering.
 
-### 💻 Skill
-
+### 💻 Skill and Tools
 <p>
-    // <img alt="Python" src ="https://img.shields.io/badge/{기술명}-{원하는색상코드}?style={스타일}&logo={로고명}&logoColor={로고색상}"/>
     <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
     <img alt="LangChain" src ="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white"/>
     <img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
@@ -28,12 +24,7 @@ let text = `
     <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 </p>
 
-### 🛠️ Tools
-
-// ![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:5433FF,50:20BDFF,100:A5FECB&section=footer&reversal=true)
-
-## 📕 Latest Blog Posts
-
+### 📕 Latest Blog Posts
 `;
 
 // rss-parser 생성
@@ -49,8 +40,8 @@ const parser = new Parser({
 
     text += `<ul>`;
 
-    // 최신 10개의 글의 제목과 링크를 가져온 후 text에 추가
-    for (let i = 0; i < 10; i++) {
+    // 최신 3개의 글의 제목과 링크를 가져온 후 text에 추가
+    for (let i = 0; i < 3; i++) {
         const { title, link } = feed.items[i];
         console.log(`${i + 1}번째 게시물`);
         console.log(`추가될 제목: ${title}`);
@@ -66,3 +57,10 @@ const parser = new Parser({
     });
     console.log("업데이트 완료");
 })();
+
+/* Archive (let text 부분)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:A5FECB,50:20BDFF,100:5433FF&text=Hi,%20i'm%20Seungyeon&fontAlignY=30&textBg=false&reversal=false&desc=Engineer%20who%20can%20provide%20practical%20value%20to%20people&descAlignY=53&fontColor=f7f5f5)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:5433FF,50:20BDFF,100:A5FECB&section=footer&reversal=true)
+
+<img alt="Python" src ="https://img.shields.io/badge/{기술명}-{원하는색상코드}?style={스타일}&logo={로고명}&logoColor={로고색상}"/>
+*/
