@@ -21,4 +21,4 @@
 </p>
 
 ### 📕 Latest Blog Posts
-<ul><li><a href='https://kairosial.tistory.com/213' target='_blank'>VSCode 초기 설정과 유용한 Extensions</a></li><li><a href='https://kairosial.tistory.com/210' target='_blank'>유용한 VSCode 단축키</a></li><li><a href='https://kairosial.tistory.com/209' target='_blank'>Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection 논문 리뷰</a></li></ul>
+<ul><li><a href='https://kairosial.tistory.com/217' target='_blank'>티스토리 hELLO 스킨 MacOS 스타일 코드블럭 적용 오류 해결</a></li><li><a href='https://kairosial.tistory.com/213' target='_blank'>VSCode 초기 설정과 유용한 Extensions</a></li><li><a href='https://kairosial.tistory.com/210' target='_blank'>유용한 VSCode 단축키</a></li></ul>
