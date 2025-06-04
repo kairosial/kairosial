@@ -8,6 +8,7 @@ import Parser from "rss-parser";
 let text = `
 ### 🙌 Hi, i'm Seungyeon
 - 🔥 I aspire to become an **engineer who provides practical value to people**.
+- 🤔 Try not to take things for granted. Throw in a question mark instead of a period.
 - 🚀 Interested in the real-world applications of **LLMs** and **LMMs** in practical services.
 - 🎓 **M.S.** in **Artificial Intelligence**, B.S. in Naval Architecture and Ocean Engineering.
 
