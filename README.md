@@ -5,7 +5,7 @@
 - 🚀 Interested in the real-world applications of **LLMs** and **LMMs** in practical services.
 - 🎓 **M.S.** in **Artificial Intelligence**, B.S. in Naval Architecture and Ocean Engineering.
 
-### 💻 Skill and Tools
+### 💻 Skills
 <p>
     <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
     <img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
